@@ -1,5 +1,3 @@
-
-
 """
 Recommendation Engine: Generates personalized learning recommendations.
 Rule-based + gap-driven recommendations with XAI explanations.

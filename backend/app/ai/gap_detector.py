@@ -1,6 +1,3 @@
-
-
-
 """
 Skill Gap Detector: Computes gaps between required and student skills.
 """

@@ -1,6 +1,7 @@
 
 
 
+
 """
 Embeddings Module: Manages skill embeddings with caching.
 Supports sentence-transformers (local) and TF-IDF fallback.

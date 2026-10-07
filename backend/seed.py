@@ -1,5 +1,6 @@
 
 
+
 """
 Seed script — populates the database with realistic demo data.
 Run: python seed.py

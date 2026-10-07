@@ -1,3 +1,4 @@
+
 from app.ai.skill_extractor import get_extractor, SkillExtractor
 from app.ai.skill_normalizer import get_normalizer, SkillNormalizer
 from app.ai.embeddings import get_embedding, get_embeddings_batch, cosine_similarity

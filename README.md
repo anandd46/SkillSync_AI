@@ -1,5 +1,6 @@
 
 
+
 # SkillSync AI
 
 ### AI-Powered Academia–Industry Skill Synchronization Portal
